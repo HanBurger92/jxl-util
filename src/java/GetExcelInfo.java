@@ -13,7 +13,6 @@ public class GetExcelInfo {
         // 创建此类的对象，以使用此类的方法
         // create the object of the class to use its method
         GetExcelInfo obj = new GetExcelInfo();
-s
         // 利用此功能来创建一个窗口，给用户提供选择文件的GUI视图
         // provide GUI View to let user select file
         JFileChooser fileChooser = new JFileChooser();
