@@ -1,2 +1,3 @@
 # jxl-util
-excel tool
+excel tool 
+for personal using, unfinish.
